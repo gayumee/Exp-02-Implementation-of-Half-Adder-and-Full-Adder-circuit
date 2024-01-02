@@ -87,6 +87,7 @@ endmodule
 ![exp 3 fa wave](https://github.com/gayumee/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149037327/3cf754f8-568e-44af-8e8a-1fb410198bf4)
 
 
-### TRUTH TABLE 
+
 
 ### Result:
+Thus the verification of half adder and full adder using verilog code is done. 
